@@ -1,0 +1,18 @@
+Iter = 62, numIterations = 500
+[info] LinearRegressionTest:
+[info] Model
+[info] - should calculate and predict
+
+[info] Estimator
+[info] - should produce functional model
+
+[info] Estimator
+[info] - should work after re-read
+
+[info] Run completed in 1 minute, 35 seconds.
+[info] Total number of tests run: 3
+[info] Suites: completed 1, aborted 0
+
+[info] Tests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[success] Total time: 101 s (01:41), completed 29 нояб. 2020 г., 18:18:36
